@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @tauqeer1556
+- 👀 I’m interested in automation and design...
+- 🌱 I’m currently study engineering...
+- ⚡ Fun fact: enthaustic cricket...
+
+<!---
+tauqeer1556/tauqeer1556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
